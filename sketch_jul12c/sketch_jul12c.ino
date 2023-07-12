@@ -101,3 +101,4 @@ void loop() {
     Serial.println("\nWaiting for Event to Occurred.\n");
   }
 }
+Serial.print("Hello World")
