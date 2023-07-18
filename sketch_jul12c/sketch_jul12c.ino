@@ -7,7 +7,7 @@
 
 
 #include <ESP8266WiFi.h>
-
+#include <LiquidCrystal.h>
 // wifi config
 const char* ssid      = "wifiName";
 const char* password  = "wifiPassword";
